@@ -1,11 +1,11 @@
 # Game of Functions
 
-This is game of functions written in nextjs+typescript and available at [here](https://github.com/sudo-gera/game_of_functions)
+This is game of functions written in nextjs and typescript and available [here](https://sudo-gera.github.io/game_of_functions/)
 
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <!---
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 ## Getting Started
 
 First, run the development server:
